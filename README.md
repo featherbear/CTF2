@@ -1,6 +1,6 @@
-CTF2
+Project CTF²
 ---
 
-Remake of the [CompClub CTF Server](https://github.com/featherbear/UNSW-CompClub2019Summer-CTF)
+Remake of my original [CompClub CTF Server](https://github.com/featherbear/UNSW-CompClub2019Summer-CTF)
 
 
