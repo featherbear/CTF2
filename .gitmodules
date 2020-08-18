@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/featherbear/CTF2-client/
+[submodule "server"]
+	path = server
+	url = https://github.com/featherbear/CTF2-server
