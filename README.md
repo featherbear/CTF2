@@ -1,7 +1,7 @@
 # Project CTF²
 ---
 
-![](https://raw.githubusercontent.com/featherbear/CTF2-client/master/src/graphics/ctf2.png)
+![](https://raw.githubusercontent.com/featherbear/CTF2-client/master/src/ui/graphics/ctf2.png)
 
 Remake of my original [CompClub CTF Server](https://github.com/featherbear/UNSW-CompClub2019Summer-CTF)
 
