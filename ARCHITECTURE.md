@@ -4,13 +4,15 @@
 
 > Frontend to interact with the challenges
 
-[Svelte](https://github.com/sveltejs/svelte) JS framework served through [Sapper](https://github.com/sveltejs/sapper). Using [Bootstrap](https://github.com/twbs/bootstrap) for base styling.
+[Svelte](https://github.com/sveltejs/svelte) JS web application served through [Sapper](https://github.com/sveltejs/sapper).
 
-Desktop application provided through [Neutralinojs](https://github.com/neutralinojs/neutralinojs)
+<!-- Desktop application provided through [Neutralinojs](https://github.com/neutralinojs/neutralinojs) -->
 
 ## Server
 
-> Node.js backend server
+> Backend API server
+
+Database: SQLite or MongoDB
 
 <!-- 
 ---
